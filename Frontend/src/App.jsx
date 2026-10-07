@@ -3,7 +3,7 @@ function App() {
 
   return (
     <>
-      <h1 className="text-center text-4xl mt-10 underline">Welcome to BookMyScreen</h1>
+      <h1 className="text-center text-4xl mt-10 underline">Welcome to HoldMySeat</h1>
     </>
   )
 }
